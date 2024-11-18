@@ -1,21 +1,22 @@
 <div align="center">
-  <h1>INSTIKI Developer Club ⚡</h1>
-  <h3>Developer Grow Here | Devisi Web Programing</h3>
+  <h1>Hi⚡</h1>
+  <h3>Web Development Here/h3>
 </div>
 
 <br>
 
 ## Introduction ✨
 
-
-Hi, Perkenalkan saya I Putu Alfin Teguh Wahyudi, seorang Developer asal Bali, Indonesia.
-Untuk saat ini aku sedang berfokus kan di Frontend Development...
+Hi my name is Alfin, I'm a web development from bali
 
 ## Tech stack 🚀
 
 - Javascript
 - HTML
 - PHP
+- Laravel
+- Next.js
+- Go
 - Etc.
 
 
